@@ -1,5 +1,8 @@
 <img src="https://github.com/user-attachments/assets/67ef748e-c0a9-44f3-be3a-9ba12425f6bd" style="width:100%; height:auto;" />
 
+![gif2](https://github.com/user-attachments/assets/4235c5b5-2f7e-442a-b83a-81955bb8ce88)
+
+
 # 💫 Hi I'm Manush
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
