@@ -1,7 +1,7 @@
 ![gif2](https://github.com/user-attachments/assets/4235c5b5-2f7e-442a-b83a-81955bb8ce88)
 
 
-# 💫 Hi I'm Manush
+# Hi I'm Manush
 I'm a Computer Engineering Student at McMaster University
 
 Currently on the Firmware and Controls team for [Mac Formula Electric](https://macformularacing.com/)
