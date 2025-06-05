@@ -1,4 +1,4 @@
-![gif2(2)](https://github.com/user-attachments/assets/ae70277b-2903-4902-b261-cffb64caabb3)
+![gif2(3)](https://github.com/user-attachments/assets/07571ebd-e378-4c29-b0c7-f53bb6ea375d)
 
 
 # Hi I'm Manush
