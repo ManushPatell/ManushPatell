@@ -6,7 +6,7 @@ I'm a Computer Engineering Student at McMaster University
 
 Currently on the Firmware and Controls team for [Mac Formula Electric](https://macformularacing.com/)
 
-I'm working on a solution to McMaster's housing crisis and developing a safer method for students to sell and purchase goods without hassle!
+I'm working on a solution to McMaster's housing problem and developing a safer method for students to sell and purchase goods without hassle!
 
 Check out my [website!](https://manushpatell.github.io/manush-portfolio/)
 
