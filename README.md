@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=11751649021937211" height="345" width="345" frameborder="0" scrolling="no" ></iframe>
+![gif](https://github.com/user-attachments/assets/67ef748e-c0a9-44f3-be3a-9ba12425f6bd)
 
 # 💫 Hi I'm Manush
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
