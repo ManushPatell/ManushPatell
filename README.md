@@ -17,4 +17,3 @@ Check out my [website!](https://manushpatell.github.io/manush-portfolio/)
 ---
 [![](https://visitcount.itsvg.in/api?id=ManushPatell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
